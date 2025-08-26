@@ -1,0 +1,26 @@
+﻿# Python caches / virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+ENV/
+env/
+*.env
+instance/
+*.sqlite3
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs / build
+*.log
+dist/
+build/
+*.egg-info/
+
+# Static preview images or generated assets you don't want tracked
+static/templates_preview/
